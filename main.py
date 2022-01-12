@@ -23,6 +23,9 @@ robot = DriveBase(left_motor, right_motor, wheel_diameter=55.5, axle_track=104) 
 robot.straight(100)
 ev3.speaker.beep()
 
+robot.straight(100)
+ev3.speaker.beep()
+
 robot.turn(-90)
 ev3.speaker.beep()
 
