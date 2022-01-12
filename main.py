@@ -36,5 +36,3 @@ ev3.speaker.beep()
 
 robot.straight(100)
 ev3.speaker.beep()
-# Write your program here.
-ev3.speaker.beep()
